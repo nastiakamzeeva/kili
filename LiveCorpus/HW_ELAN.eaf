@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-14T18:41:33+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///J:/video/Путешествия.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7ebf4668-59f6-4fb2-9a11-6248c11c00ba</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">104</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="13500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="13980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="20330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="21490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="44880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="45510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="51280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="51910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="58510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="59110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="71610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="71700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="80820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="80940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="83970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="83970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="86540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="86880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="101500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="103230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="107120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="108170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="112490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="112900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="117920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="119450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="122900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="123220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="123700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="124600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="130580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="132000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="140590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="141380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="148340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="148340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="150160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="150160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="151970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="152050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="153890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="154600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="159880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="161090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="165580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="166200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="168200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="168720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="178870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="180860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="188320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="189420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="191440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="192000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="215010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="215720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="222670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="223280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="226150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="227010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="233400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="233510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="250780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="251420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="265730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="266160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="268280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="268360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="269640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="269660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="271100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="271670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="280570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="281700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="283700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="284360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="296610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="297100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="301050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="301180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="301880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="302570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="303930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="303930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="320940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="321690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="334420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="335550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="346640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="346810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="348180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="348210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="349530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="350130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="350960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="351320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="354100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="356330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="370720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="373030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="397250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="398130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="406150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="406480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="407000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="407630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="410660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="410670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="411440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="430000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="440000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="440000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="450000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="450000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="460000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="460000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="470000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="470000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="480000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="480000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="490000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="490000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="500000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="500000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="510000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="510000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="520000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="520000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="530000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="530000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="540000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="540000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="550000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="550000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="560000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="560000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="570000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="570000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="580000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="580000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="590000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="590000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="600000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="600000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="610000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="610000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="620000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="620000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="630000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="A" TIER_ID="A_Transcription-txt-andi"/>
+    <TIER LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Transcription-txt-andi" PARTICIPANT="A" TIER_ID="A_Translation-gls-ru"/>
+    <TIER LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Transcription-txt-andi" PARTICIPANT="A" TIER_ID="A_Participant-note-en"/>
+    <TIER LINGUISTIC_TYPE_REF="subdivision" PARENT_REF="A_Transcription-txt-andi" PARTICIPANT="A" TIER_ID="A_Morph-txt-andi"/>
+    <TIER LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Morph-txt-andi" PARTICIPANT="A" TIER_ID="A_Gloss-txt-en"/>
+    <TIER LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Morph-txt-andi" PARTICIPANT="A" TIER_ID="A_POS-txt-en"/>
+    <TIER LINGUISTIC_TYPE_REF="association" PARENT_REF="A_Morph-txt-andi" PARTICIPANT="A" TIER_ID="A_Lemma-txt-andi"/>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="А@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Сегодня у нас необычное интервью с очень необычным гостем.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Итак, Михаил, поговорим о путешествиях.  Что значит для тебя путешествие куда-либо?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Итак, как ты предпочитаешь путешествовать?  В компании или один?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Ааа... Если ты все-таки путешествуешь,там, в компании друзей, то какими качествами должны обладать, вот, твои попутчики, то есть люди, с кем ты путешествуешь?  Что ты ценишь в них?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Ммм...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>А, вообще, что заставляет тебя отправиться в путешествие? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Ммм, интересно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>А каким было твое первое приключение или,там, может быть, поход? Что тебе запомнилось больше всего, то есть, какие, там, самые яркие моменты? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>М, отлично. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>А куда бы вот ты сам хотел поехать больше всего?  Там, ну, в какую-нибудь страну?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>То есть только из-за футбола?Иии...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Ну, преимущественно?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Ммм... Действительно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>А если говорить о национальной кухне, вот например, то какая кухня какой страны тебе ближе всего?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>В самом расцвете сил!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>Сочетания, да, просто...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>Невероятная палитра...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Ну, и, наверно, последний вопрос: что ты можешь пожелать другим путешественникам, ну или просто людям,которые любят исследовать что-то новое, ездить куда-то вместе?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>Это да. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>Спасибо Вам большое за такую интересную беседу.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Михаил@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Необычность заключается в том, что я в очень удобной позе: лежа. Надеюсь меня посмотрят много приятных людей.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Путешествие куда-либо значит для меня, что я увижу много новых, прекрасных, а может и не очень мест, много новых, прекрасных, а может и не очень, людей, ведь главное, главное у нас в мире, в обществе-это общение. Это то, что отделяет нас от животных, так что путешествие для меня все-таки, наверно, прежде всего общение с разными людьми, в разных странах, в разных областях, неважно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Я предпочитаю путешествовать в компании друзей.  Так интереснее, веселее, намного лучше. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Ты не стесняешься в выражениях, говоришь абсолютно на любые темы, которые тебя волнуют, потому что друзья, друзья, они поймут, мне кажется, лучше чем родители.  Ну, вот поэтому в принципе в компании друзей. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ну, одному тоже можно путешествовать, есть такие места, куда неплохо путешествовать одному, например Питер или какие-нибудь горы красивые, или лес. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Нет, в лесу, в лесу тебя убьют, наверное одного.  Но!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Но, но можно и одному путешествовать, да.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Эм... Ну, это вопрос равносильный тому, что я ценю в друзьях. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Искренность, доброту, доброжелательность, хотя это почти синонимы. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Еще чтобы они за меня платили, было бы неплохо, конечно.  Я очень люблю это, вот. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Так, чтобы люди были нескучные, наверное это основное.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Эм...  Иногда меня заставляют родители, потому что они говорят: "Нефига лежать на диване, надо поехать куда-нибудь". </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Иногда друзья тоже мне говорят:"Нефиг лежать на диване, надо путешествовать куда-нибудь".  Иногда меня мамка просто выгоняет пинками с дивана, типа: </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>-Иди хоть погуляй во дворе-то хоть.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>-Не, мам, ну что ты? Я не хочу!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Но, но побуждают. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Я не знаю, люди побуждают меня, в основном, как я уже говорил в предыдущем вопросе. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Эм...  Тем, чем лучше компания, тем приятней путешествовать.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Наверно, когда я был в Крыму ещё, тогда он был ещё украинским, намного лучше чем сейчас, кстати. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Немножко о политике, да.  Э, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Э, мы с моим братом и мамой поехали в путешествие по всему Крыму, там: Ласточкино гнездо, Медведь-гора, э, сады в Cудаке, в общем, немного античности, немного,эм...такого готического стиля. Даже немного понравился советский стиль, вот.  Ну и сам национальный украинский. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Наверно, это произвело на меня самое большое впечатление, потому что это было такое первое большое путешествие.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Я, вообще, обожаю футбол и хотел бы поехать в футбольную страну: Испания или Англия.  В Испании я больше всего хочу отправиться в Севилью, там любимая команда обитает, ээ, одноименная, вот. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>В Англии хотелось бы в Лондон, там лондонский "Арсенал" и пусть там этот старик Венгер двадцать лет уже всем мозги трет, но все равно - один из моих любимых клубов.  Поэтому, наверно, Лондон. В Англии, в Испании,Севилье.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Ну, нет, все-таки, ну...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Преимущественно да, но все-таки и Лондон, и Севилья это города с прекрасной архитектурой, и мне это интересно, как студенту строительного колледжа. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>Я - большой взрослый мужчина, по мне, по мне видно, надеюсь, я...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>Я люблю шоколадки, мармеладки.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Но нет, мне больше всего нравится кухня, где преобладает тесто и мясо, например, это европейская кухня или кавказская.Кавказская особенно нравится: ешь чебурек, он жиром капает мне на жир, и это двойной жир,и мне, и мне очень приятно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Поэтому кухня, где преобладает мясо.В особенности, наверно, говядина и свинина. Баранину не переношу, остальное мясо в принципе-то и не пробовал. Вот. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>Можно и японскую иногда покушать,да. Она... Она такая необычная: рис, рыба...И все на рисе и рыбе, но они столько с этим придумывают! И я просто в шоке.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>Да, сочетаний просто дофигища.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>Да...Красивые слова: невероятная палитра, да.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Ммм...Я рекомендую прежде всего наслаждаться самим местом, и не отталкиваться от, может, каких-то отзывов в интернете или просто от каких-то неприятных мыслей. Ведь в любом месте, другом, можно найти что-то: что-то хорошее, что-то красивое.  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>И еще, конечно, быть осторожным, потому что, ну, за границей часто бывает опасно. Ну, в принципе, вот. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>Пожалуйста.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>Но нет, мне больше всего нравится кухня, где преобладает тесто и мясо, например, это европейская кухня или кавказская. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>Кавказская особенно нравится: ешь чебурек, он жиром капает мне на жир, и это двойной жир,и мне, и мне очень приятно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>Поэтому кухня, где преобладает мясо.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>В особенности, наверно, говядина и свинина. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>Баранину не переношу, остальное мясо в принципе-то и не пробовал.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>Вот. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>Можно и японскую иногда покушать,да. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>Она...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>Она такая необычная: рис, рыба... </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>И все на рисе и рыбе, но они столько с этим придумывают!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>И я просто в шоке.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>Да, сочетаний просто дофигища.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>Да...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>Красивые слова: невероятная палитра, да.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>Ммм...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>Я рекомендую прежде всего наслаждаться самим местом, и не отталкиваться от, может, каких-то отзывов в интернете или просто от каких-то неприятных мыслей. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>Ведь в любом месте, другом, можно найти что-то: что-то хорошее, что-то красивое. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>И еще, конечно, быть осторожным, потому что, ну, за границей часто бывает опасно. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>Ну, в принципе, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>Пожалуйста.   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
